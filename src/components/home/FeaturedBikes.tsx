@@ -3,6 +3,12 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 
+// Import bike images
+import heroSplendor from "@/assets/hero-splendor.jpg";
+import yamahaFz from "@/assets/yamaha-fz.jpg";
+import bajajPulsar from "@/assets/bajaj-pulsar.jpg";
+import tvsApache from "@/assets/tvs-apache.jpg";
+
 interface Bike {
   id: string;
   name: string;
@@ -32,7 +38,7 @@ const FeaturedBikes = () => {
       fuelType: "Petrol",
       owners: 1,
       location: "Mumbai, Maharashtra",
-      image: "/placeholder.svg",
+      image: heroSplendor,
       verified: true,
       featured: true,
     },
@@ -47,7 +53,7 @@ const FeaturedBikes = () => {
       fuelType: "Petrol",
       owners: 1,
       location: "Delhi, NCR",
-      image: "/placeholder.svg",
+      image: yamahaFz,
       verified: true,
       featured: true,
     },
@@ -62,7 +68,7 @@ const FeaturedBikes = () => {
       fuelType: "Petrol",
       owners: 1,
       location: "Bangalore, Karnataka",
-      image: "/placeholder.svg",
+      image: bajajPulsar,
       verified: true,
       featured: true,
     },
@@ -77,7 +83,7 @@ const FeaturedBikes = () => {
       fuelType: "Petrol",
       owners: 2,
       location: "Chennai, Tamil Nadu",
-      image: "/placeholder.svg",
+      image: tvsApache,
       verified: true,
       featured: true,
     },

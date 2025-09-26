@@ -45,9 +45,9 @@ const Footer = () => {
           <div className="lg:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
               <div className="h-8 w-8 bg-gradient-primary rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-sm">BH</span>
+                <span className="text-white font-bold text-sm">VB</span>
               </div>
-              <span className="font-bold text-xl text-foreground">BikeHub</span>
+              <span className="font-bold text-xl text-foreground">Vahan Bazar</span>
             </div>
             <p className="text-muted-foreground mb-6 max-w-md">
               India's most trusted marketplace for buying and selling pre-owned motorcycles and scooters. 
@@ -62,7 +62,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-3 text-muted-foreground">
                 <Mail className="h-4 w-4" />
-                <span>support@bikehub.com</span>
+                <span>support@vahanbazar.com</span>
               </div>
               <div className="flex items-center space-x-3 text-muted-foreground">
                 <MapPin className="h-4 w-4" />
@@ -178,7 +178,7 @@ const Footer = () => {
         <div className="py-6 border-t border-border">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-muted-foreground text-sm">
-              © {currentYear} BikeHub. All rights reserved.
+              © {currentYear} Vahan Bazar. All rights reserved.
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <a href="#privacy" className="text-muted-foreground hover:text-primary text-sm transition-colors">

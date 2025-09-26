@@ -54,7 +54,7 @@ const WhyChooseUs = () => {
         {/* Section Header */}
         <div className="text-center mb-12">
           <h2 className="text-3xl lg:text-4xl font-bold text-foreground mb-4">
-            Why Choose BikeHub?
+            Why Choose Vahan Bazar?
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
             India's most trusted platform for buying and selling pre-owned motorcycles and scooters
