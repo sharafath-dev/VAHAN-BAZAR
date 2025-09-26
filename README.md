@@ -1,73 +1,44 @@
-# Welcome to your Lovable project
+# Vahan Bazar - Your Trusted Marketplace for Second-Hand Bikes
 
-## Project info
+## Problem Statement
+Buying or selling a used bike in India can be challenging due to lack of verified sellers, unclear pricing, and limited access to trustworthy listings. This creates uncertainty for both buyers and sellers, leading to poor decision-making and lost opportunities.
 
-**URL**: https://lovable.dev/projects/5cbd9ccb-d883-4e26-b84e-591679d7bc92
+## Detailed Proposal & Prototype Plan
+We aim to build **Vahan Bazar**, a user-friendly marketplace connecting buyers and sellers of pre-owned motorcycles and scooters across India. The prototype focuses on:
 
-## How can I edit this code?
+- A **Buy** page with advanced search and filter options to easily find bikes by brand, price range, and year.
+- A **Sell** page where users can list their bikes with detailed descriptions and photos.
+- A **Compare** page allowing side-by-side comparison of multiple bikes’ specifications to facilitate informed decisions.
+- Additional pages for dealer listings, reviews, and support to build trust among users.
 
-There are several ways of editing your application.
+The design prioritizes a clean, responsive interface with verified listings for reliability.
 
-**Use Lovable**
+## Features to Be Implemented
+- Advanced filtering and search functionality for bike listings.
+- Easy bike listing form with photo uploads and descriptions.
+- Side-by-side bike comparison tool highlighting key specifications.
+- Display of featured verified bikes.
+- User authentication and personalized accounts (planned).
+- Contact options to connect buyers with dealers.
+- Responsive design for mobile and desktop.
+- Backend API integration for real-time data handling.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/5cbd9ccb-d883-4e26-b84e-591679d7bc92) and start prompting.
+## Tech Stack Used
+- **Frontend:** React with TypeScript, styled with Tailwind CSS
+- **Routing & State Management:** React Router and React Query
+- **Backend (Planned):** Node.js with Express, MongoDB database
+- **UI & Icons:** Custom UI components, lucide-react icons
+- **Version Control:** Git and GitHub
 
-Changes made via Lovable will be committed automatically to this repo.
+## Contribution Details
 
-**Use your preferred IDE**
+| Team Member  | Contribution                                                  |
+|--------------|---------------------------------------------------------------|
+| Member A (You) | Frontend development: Buy, Sell, Compare pages, UI components  |
+| Member B      | UI/UX design, reusable component creation                     |
+| Member C      | Backend development, API design, database integration         |
+| Member D      | Testing, documentation, deployment pipeline setup             |
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/5cbd9ccb-d883-4e26-b84e-591679d7bc92) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Thank you for reviewing our project! We are excited to contribute to making second-hand bike trading more transparent and accessible.
