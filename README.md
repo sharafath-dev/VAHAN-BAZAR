@@ -1,7 +1,9 @@
-# Vahan Bazar - Your Trusted Marketplace for Second-Hand Bikes
+# VAHAN BAZAR
+## A Trusted Marketplace for Second-Hand Bikes
+
 
 ## Problem Statement
-Buying or selling a used bike in India can be challenging due to lack of verified sellers, unclear pricing, and limited access to trustworthy listings. This creates uncertainty for both buyers and sellers, leading to poor decision-making and lost opportunities.
+Buying or selling a used bike in India is challenging due to unreliable sellers, inconsistent pricing, and limited access to verified listings. This creates uncertainty for buyers and sellers, leading to poor decisions and missed opportunities.
 
 ## Detailed Proposal & Prototype Plan
 We aim to build **Vahan Bazar**, a user-friendly marketplace connecting buyers and sellers of pre-owned motorcycles and scooters across India. The prototype focuses on:
@@ -9,9 +11,9 @@ We aim to build **Vahan Bazar**, a user-friendly marketplace connecting buyers a
 - A **Buy** page with advanced search and filter options to easily find bikes by brand, price range, and year.
 - A **Sell** page where users can list their bikes with detailed descriptions and photos.
 - A **Compare** page allowing side-by-side comparison of multiple bikes’ specifications to facilitate informed decisions.
-- Additional pages for dealer listings, reviews, and support to build trust among users.
-
-The design prioritizes a clean, responsive interface with verified listings for reliability.
+- Additional pages for dealer listings, reviews, and support (planned for future updates.
+- Future updates will include financing options, expanded dealer partnerships, and additional vehicle categories.
+- The design prioritizes a clean, responsive interface with verified listings for reliability.
 
 ## Features to Be Implemented
 - Advanced filtering and search functionality for bike listings.
@@ -21,12 +23,12 @@ The design prioritizes a clean, responsive interface with verified listings for 
 - User authentication and personalized accounts (planned).
 - Contact options to connect buyers with dealers.
 - Responsive design for mobile and desktop.
-- Backend API integration for real-time data handling.
+- Backend API integration for real-time data handling (planned).
 
 ## Tech Stack Used
 - **Frontend:** React with TypeScript, styled with Tailwind CSS
 - **Routing & State Management:** React Router and React Query
-- **Backend (Planned):** Node.js with Express, MongoDB database
+- **Backend (Planned):** Node.js with Express, MongoDB
 - **UI & Icons:** Custom UI components, lucide-react icons
 - **Version Control:** Git and GitHub
 
@@ -34,10 +36,13 @@ The design prioritizes a clean, responsive interface with verified listings for 
 
 | Team Member      | Contribution                                                  |
 |------------------|---------------------------------------------------------------|
-| SHAIK NAWMAN SHARAFATH   | Frontend development and implementation of Buy, Sell, Compare pages |
-| SHAIK CHABU        | UI/UX design and creation of reusable components             |
-| SHAIK SOHEL SIDDIQ AHAMMED        | Backend API development and database schema design            |
-| SHAIK UMAR FAROOQ         | Testing, documentation, and deployment pipeline setup         |
-| SHAIK SYFA SULTANA         | Project management, coordination, and additional feature research |
+| Shaik Nawman Sharafath   | Frontend development and implementation of Buy, Sell, Compare pages |
+| Shaik Chabu   | UI/UX design and creation of reusable components             |
+| Shaik Sohel Siddiq Ahamed        | Backend API development and database schema design            |
+| Shaik Umar Farooq         | Testing, documentation, and deployment pipeline setup         |
+| Shaik Syfa Sultana         | Project management, coordination, and additional feature research |
 
 Thank you for reviewing our project! We are excited to contribute to making second-hand bike trading more transparent and accessible.
+
+You can explore our full codebase and prototype here:  [VAHAN-BAZAAR](https://github.com/sharafath-dev/VAHAN-BAZAR)
+
