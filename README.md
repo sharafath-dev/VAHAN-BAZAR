@@ -32,13 +32,12 @@ The design prioritizes a clean, responsive interface with verified listings for 
 
 ## Contribution Details
 
-| Team Member  | Contribution                                                  |
-|--------------|---------------------------------------------------------------|
-| Member A (You) | Frontend development: Buy, Sell, Compare pages, UI components  |
-| Member B      | UI/UX design, reusable component creation                     |
-| Member C      | Backend development, API design, database integration         |
-| Member D      | Testing, documentation, deployment pipeline setup             |
-
----
+| Team Member      | Contribution                                                  |
+|------------------|---------------------------------------------------------------|
+| SHAIK NAWMAN SHARAFATH   | Frontend development and implementation of Buy, Sell, Compare pages |
+| SHAIK CHABU        | UI/UX design and creation of reusable components             |
+| SHAIK SOHEL SIDDIQ AHAMMED        | Backend API development and database schema design            |
+| SHAIK UMAR FAROOQ         | Testing, documentation, and deployment pipeline setup         |
+| SHAIK SYFA SULTANA         | Project management, coordination, and additional feature research |
 
 Thank you for reviewing our project! We are excited to contribute to making second-hand bike trading more transparent and accessible.
